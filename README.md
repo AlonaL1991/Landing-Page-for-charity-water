@@ -184,7 +184,8 @@ https://www.charitywater.org/about/scott-harrison-story
   </section>
 
   <footer>
-    &copy; 2025 charity: water. All rights reserved.
+    &copy; 2025 charity: water. All rights reserved
+    +1(937)-234-67-89.
   </footer>
 
 </body>
